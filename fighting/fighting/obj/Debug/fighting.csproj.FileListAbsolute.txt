@@ -1,0 +1,12 @@
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\bin\Debug\fighting.exe.config
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\bin\Debug\fighting.exe
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\bin\Debug\fighting.pdb
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\obj\Debug\fighting.csprojResolveAssemblyReference.cache
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\obj\Debug\fighting.Form1.resources
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\obj\Debug\fighting.Properties.Resources.resources
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\obj\Debug\fighting.csproj.GenerateResource.Cache
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\obj\Debug\fighting.exe
+E:\Iqra Notes\CS-2\OOP Programs\VS\fighting\fighting\obj\Debug\fighting.pdb
+E:\fighting\fighting\bin\Debug\fighting.exe.config
+E:\fighting\fighting\obj\Debug\fighting.exe
+E:\fighting\fighting\obj\Debug\fighting.pdb
